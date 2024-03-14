@@ -1,0 +1,6 @@
+PS C:\Users\Admin\Documents\GitHub\23174600054_TRUONG_THI_THU_HOAI_17A2_Ca_san> & C:/Users/Admin/AppData/Local/Programs/Python/Python312/python.exe "c:/Users/Admin/Documents/GitHub/23174600054_TRUONG_THI_THU_HOAI_17A2_Ca_sang/lab 1/bai4.py"
+nhập các số đo: 2,3
+diện tích xung quanh hình chóp tứ giác đều: 12.0
+diện tích toàn phần  hình chóp tứ giác đều: 16.0
+thể tích hình chóp tứ giác đều: 4.0
+PS C:\Users\Admin\Documents\GitHub\23174600054_TRUONG_THI_THU_HOAI_17A2_Ca_sang> 
