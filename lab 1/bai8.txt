@@ -1,0 +1,4 @@
+PS C:\Users\Admin\Documents\GitHub\23174600054_TRUONG_THI_THU_HOAI_17A2_Ca_san> & C:/Users/Admin/AppData/Local/Programs/Python/Python312/python.exe "c:/Users/Admin/Documents/GitHub/23174600054_TRUONG_THI_THU_HOAI_17A2_Ca_sang/lab 1/bai8.py"
+nhập các giá trị: 5 6
+giá trị của biểu thức là: -10.34
+PS C:\Users\Admin\Documents\GitHub\23174600054_TRUONG_THI_THU_HOAI_17A2_Ca_sang> 
