@@ -1,0 +1,8 @@
+PS C:\Users\Admin\Documents\GitHub\23174600054_TRUONG_THI_THU_HOAI_17A2_Ca_sang> & C:/Users/Admin/AppData/Local/Programs/Python/Python312/python.exe "c:/Users/Admin/Documents/GitHub/23174600054_TRUONG_THI_THU_HOAI_17A2_Ca_sang/lab 1/bai6.py"
+nhập các số: 1 2 3 4
+phép cộng 2 vecto là: (4.0, 6.0) 
+phép trừ 2 vecto là: (-2.0, -2.0)
+độ dài vecto a: 2.23606797749979 
+độ dài vecto b: 5.0
+Cos giữa 2 vecto = 0.98 
+PS C:\Users\Admin\Documents\GitHub\23174600054_TRUONG_THI_THU_HOAI_17A2_Ca_sang> 
