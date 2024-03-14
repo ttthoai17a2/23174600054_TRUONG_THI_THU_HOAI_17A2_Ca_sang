@@ -1,0 +1,5 @@
+PS C:\Users\Admin\Documents\GitHub\23174600054_TRUONG_THI_THU_HOAI_17A2_Ca_san> & C:/Users/Admin/AppData/Local/Programs/Python/Python312/python.exe "c:/Users/Admin/Documents/GitHub/23174600054_TRUONG_THI_THU_HOAI_17A2_Ca_sang/lab 1/bai3.py"
+số tiền có được sau 5 năm:  13382.255776
+số tiền có được sau 10 năm:  17908.476965
+tỷ lệ tăng trưởng:  0.452622
+PS C:\Users\Admin\Documents\GitHub\23174600054_TRUONG_THI_THU_HOAI_17A2_Ca_sang> 
