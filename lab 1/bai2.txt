@@ -1,0 +1,7 @@
+Nhập số lượng sách:1
+Nhập mã sách:23174600054
+Nhập tên sách:Chuyến đi thanh xuân
+Nhập tên tác giả: Trương Thị Thu Hoài
+Nhập năm xuất bản: 2024
+Thư viện ĐHKTKTCN có 1 sách Chuyến đi thanh xuân với mã số 23174600054.
+Cuốn sách của tác giả Trương Thị Thu Hoài được xuất bản năm 2024
