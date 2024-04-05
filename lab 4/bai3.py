@@ -1,11 +1,11 @@
-a = int(input("Nhập vào một số nguyên: "))
+n = int(input("Nhập vào một số nguyên: "))
 count = 0
-b = abs(a)  
-while b > 0:
-    count += 1
-    b //= 10 
 
-if a == 0:
+if n == 0:
     count = 1
 
-print(f"Số {a} có {count} chữ số.")
+while n != 0:
+    count += 1
+    n//= 10
+
+print("Số chữ số của số nguyên là:", count)
