@@ -1,0 +1,6 @@
+n= input("Nhập dãy các số, cách nhau bằng khoảng trắng: ")
+so = list(map(float, n.split()))
+max = max(so)
+min = min(so)
+print("Số lớn nhất trong dãy là:", max)
+print("Số nhỏ nhất trong dãy là:", min)
